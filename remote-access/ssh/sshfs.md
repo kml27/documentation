@@ -50,7 +50,7 @@ You can also browse the Pi's filesystem using your computer's file manager (incl
 ### Windows
 
 With Pi's defaults
- - Use the network drive path \\sshfs\pi@raspberrypi
+ - Use the network drive path \\\\sshfs\\pi@raspberrypi
  - Password: raspberry
  
  [Map Network Drive](https://github.com/billziss-gh/winfsp#winfsp---windows-file-system-proxy)
